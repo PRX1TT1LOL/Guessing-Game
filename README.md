@@ -1,5 +1,5 @@
 # hallo gang
-====
+
 this is a modified version of Sumon7862's (go check him out) Guessing Game
 It just has some aesthetic changes.
 have fun.
